@@ -100,14 +100,14 @@ p {
     border-bottom-right-radius: 15px;
     border-top-right-radius: 15px;
     
+    
 }
 
 .container {
-    margin: 190px;
-    padding: 100px;
+    padding: 90px;
     height: 100%;
     
-
+    
     
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -134,21 +134,14 @@ p {
 
     }
 
-    .sed{
+    .card{
         border-radius: 0 !important;
         height: 500px;
+        width: 100%;
+        
+        
     }
-
-    .suv{
-        border-radius: 0 !important;
-        height: 500px;
-    }
-
-    .lux{
-        border-radius: 0 !important;
-        height: 500px;
-    }
-
+        
     .sed {
         border-top-right-radius: 10px !important;
         border-top-left-radius: 10px !important;
