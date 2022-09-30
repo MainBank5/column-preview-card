@@ -104,9 +104,9 @@ p {
 }
 
 .container {
-    margin: 190px;
-    padding: 100px;
+    padding: 90px;
     height: 100%;
+    
     
     
     display: grid;
@@ -138,6 +138,7 @@ p {
         border-radius: 0 !important;
         height: 500px;
         width: 100%;
+        
         
     }
         
