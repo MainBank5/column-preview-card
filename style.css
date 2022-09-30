@@ -125,6 +125,7 @@ p {
 @media (max-width: 768px) {
     .container{
         height: auto;
+        max-width: 100%;
         margin: 10px 0px 10px 0px;
         display: flex;
         flex-flow: column wrap;
